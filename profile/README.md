@@ -14,6 +14,15 @@ Aqsa LogicByte is a software engineering practice building scalable, high-perfor
 - **Cloud & DevOps** — AWS, Firebase, Supabase, Docker
 - **Core Engineering Practices** — API integration, Auth & RBAC, database design, performance optimization
 
+## In Production
+
+Two of our own AI products, live and on Google Play:
+
+- **Solar AI Finance** — an AI solar advisor for Pakistani households: analyzes appliances, location, and backup needs to size solar systems, inverters, and batteries, then estimates cost, savings, and payback. React Native + Next.js on a shared backend.
+  [Website](https://solar-ai-finance.vercel.app) · [Google Play](https://play.google.com/store/apps/details?id=com.aqsalogicbyte.solaraifinance)
+- **ShadeLoom** — an AI skin-tone scanner and foundation shade-matcher: estimates undertone from a single front-camera photo and matches equivalent shades across brands, with a built-in assistant and undertone tracking.
+  [Website](https://shadeloom.vercel.app) · [Google Play](https://play.google.com/store/apps/details?id=com.aqsalogicbyte.shadeloom)
+
 ## How We Work
 
 We pair AI-assisted development — planning, boilerplate, and coding conventions encoded as reusable skills — with manual code review and testing, so what ships is fast to build *and* production-quality. The same discipline carries into the AI products we build: every LLM feature ships with evaluations, guardrails, and cost and latency budgets.
